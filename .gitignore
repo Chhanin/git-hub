@@ -1,0 +1,4 @@
+#Logs
+*.Log
+
+.DS_Store
